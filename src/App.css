@@ -10,8 +10,8 @@ light green: #A3C4BC
 .WeatherText{
   display: flex;
   justify-content: center;
-  width: 100%;
-  padding: 120px;
+  width: 130%;
+  padding: 100px;
  }
  .image{
   padding-left: 60px;
@@ -27,7 +27,7 @@ light green: #A3C4BC
     }
 
     .form-wrapper {
-      width: 400px;
+      width: 500px;
       display: flex;
       flex-direction: column;
       padding: 20px 40px;
